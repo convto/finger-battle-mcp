@@ -1,1 +1,1 @@
-# fieger-battle-mcp
+# finger-battle-mcp
